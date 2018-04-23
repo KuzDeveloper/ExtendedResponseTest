@@ -1,5 +1,5 @@
 # ExtendedResponseTest
-.Net Core 2.0 Web Api project to test how to extended basic json and xml calls with custom accept header values
+.Net Core 2.0 Web Api project to test how to extend basic json and xml calls with custom accept header values
 
 There are 2 controllers in the project:
 
